@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyvista
+trimesh
+matplotlib
+scipy
+numpy
+networkx
